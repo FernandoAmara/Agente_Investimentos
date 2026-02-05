@@ -1,6 +1,6 @@
 # Sophos 📈 — Assistente de Investimentos Multi‑Agentes (LLMs + LSTM + Análise Técnica/Fundamentalista)
 
-Projeto do curso **“IA para Investimentos: Crie Aplicação Multi‑Agentes com LLMs”** (Udemy).  
+Projeto do curso **“IA para Investimentos: Crie Aplicação Multi‑Agentes com LLMs”**.  
 Ele implementa uma aplicação em **Python + Streamlit** com **múltiplos agentes** para apoiar análises de um ativo (ex.: ações), combinando:
 
 - **Previsão de preço com LSTM** (TensorFlow) + análise via LLM (multimodal)
